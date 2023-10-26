@@ -36,6 +36,7 @@ The user that comes across this website will be able to take a quiz and will be 
 
 # Deployed Link
 
+https://usamaali0909.github.io/Week-4-Quiz-Usama/
 
 ## Screenshot of website 
 ![Alt text](image.png)
